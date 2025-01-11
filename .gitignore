@@ -1,0 +1,5 @@
+# STM32CubeIDE
+.metadata/
+.settings/
+.launch/
+Debug/
